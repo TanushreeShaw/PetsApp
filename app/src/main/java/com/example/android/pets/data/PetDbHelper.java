@@ -13,6 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
 package com.example.android.pets.data;
 
 import android.content.Context;
@@ -24,6 +25,7 @@ import com.example.android.pets.data.PetContract.PetEntry;
 /**
  * Database helper for Pets app. Manages database creation and version management.
  */
+
 public class PetDbHelper extends SQLiteOpenHelper {
 
     public static final String LOG_TAG = PetDbHelper.class.getSimpleName();
@@ -65,6 +67,7 @@ public class PetDbHelper extends SQLiteOpenHelper {
     /**
      * This is called when the database needs to be upgraded.
      */
+    
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         // The database is still at version 1, so there's nothing to do be done here.
