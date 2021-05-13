@@ -10,6 +10,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
 <manifest package="com.example.android.pets"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
@@ -38,5 +39,4 @@
                 android:value=".CatalogActivity" />
         </activity>
     </application>
-
 </manifest>
