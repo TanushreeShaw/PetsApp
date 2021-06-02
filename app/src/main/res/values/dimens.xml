@@ -9,11 +9,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
 <resources>
     <!-- Margin around the floating action button in CatalogActivity -->
     <dimen name="fab_margin">16dp</dimen>
 
     <!-- Common margin value used throughout the app -->
     <dimen name="activity_margin">16dp</dimen>
+     
 </resources>
-
