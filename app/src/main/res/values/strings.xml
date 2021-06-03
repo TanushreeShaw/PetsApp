@@ -10,6 +10,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
 <resources>
     <!-- Name for the application [CHAR LIMIT=12] -->
     <string name="app_name">Pets</string>
