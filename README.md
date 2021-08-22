@@ -1,7 +1,7 @@
 Pets App
 ===================================
 
-This App displays a list of pets and their related data that the user inputs.
+This App displays a list of Pets and their related Data that the user inputs.
 
 License
 -------
